@@ -12,7 +12,6 @@ int main() {
 	 *
 	 * Same logic for even numbers
 	 *
-	 * The key: good naming variables and read them in right order
 	 */
 	int even1, even2, even3, even4;
 	int odd1, odd2, odd3, odd4;
